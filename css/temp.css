@@ -1,0 +1,66 @@
+
+.header .navbar
+{
+  font-family: 'HelveticaNeueLTPro-Md';
+  background-color: #2F2F2F;
+  color: #fbfbfb;
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: 300;
+  overflow: hidden;
+
+  /*  margin: -55px 0 0;*/
+}
+.header .navbar .logo{
+
+float: left;
+}
+.header .logo h2
+{
+  font-family: 'BeyondTheMountains';
+  font-size: 65px;
+  font-weight: 400px;
+  text-decoration: none;
+  text-transform: capitalize;
+
+
+}
+
+
+.header .logo  p
+{
+  font-size: 12px;
+  font-weight: 0px;
+  color: #2F2F2F;
+  text-transform: uppercase;
+  letter-spacing: 0.26rem;
+  color: #9d9d9d;
+
+
+}
+.header .navbar .container ul
+{
+  list-style: none;
+align-items: center;
+  overflow: auto;
+padding-top: 8px
+  float:right;
+
+
+
+}
+.header .navbar ul li
+{
+  list-style: none;
+  display: inline;
+  padding-left:45px;
+
+
+}
+
+/* end Header*/
+
+.slider{
+/*  background:url('images/slider.jpg');
+*/
+}
